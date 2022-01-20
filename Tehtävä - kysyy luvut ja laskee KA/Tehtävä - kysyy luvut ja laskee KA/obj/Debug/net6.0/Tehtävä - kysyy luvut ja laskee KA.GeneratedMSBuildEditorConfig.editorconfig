@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tehtävä___kysyy_luvut_ja_laskee_KA
+build_property.ProjectDir = C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\
