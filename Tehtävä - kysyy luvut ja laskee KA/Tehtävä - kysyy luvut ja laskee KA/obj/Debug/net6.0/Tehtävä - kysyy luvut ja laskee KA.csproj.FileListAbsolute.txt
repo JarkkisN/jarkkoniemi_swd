@@ -1,0 +1,15 @@
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\bin\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.exe
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\bin\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.deps.json
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\bin\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.runtimeconfig.json
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\bin\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.dll
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\bin\Debug\net6.0\ref\Tehtävä - kysyy luvut ja laskee KA.dll
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\bin\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.pdb
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.AssemblyInfoInputs.cache
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.AssemblyInfo.cs
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.csproj.CoreCompileInputs.cache
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.dll
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\ref\Tehtävä - kysyy luvut ja laskee KA.dll
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.pdb
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.genruntimeconfig.cache
+C:\Users\Jarkko\source\repos\Tehtävä - kysyy luvut ja laskee KA\Tehtävä - kysyy luvut ja laskee KA\obj\Debug\net6.0\Tehtävä - kysyy luvut ja laskee KA.csproj.AssemblyReference.cache
