@@ -1,4 +1,4 @@
-# C# Harjoituksia
+# C# Harjoituksia (Ohjelmistokehitys kurssi)
 - testi
-## Ohjelmistokehitys
+
 #### Jarkko Niemi - INTIP21A6
